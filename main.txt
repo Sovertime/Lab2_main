@@ -1,6 +1,0 @@
-main
-<<<<<<< HEAD
-main change
-=======
-branch change
->>>>>>> new-branch
