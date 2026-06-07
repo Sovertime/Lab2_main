@@ -1,0 +1,3 @@
+[submodule "Laba2/MatrixLibrary"]
+	path = Laba2/MatrixLibrary
+	url = https://github.com/Sovertime/Lab2_sub.git
